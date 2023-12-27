@@ -1,0 +1,9 @@
+.color-title {
+    font-weight: bold;
+}
+
+#title {
+    color:cornflowerblue;
+    text-decoration: underline;
+    text-align: center;
+}
